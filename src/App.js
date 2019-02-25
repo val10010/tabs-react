@@ -21,7 +21,7 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    fetch('https://val10010.github.io/tabs-react/src/data.json')
+    fetch('https://val10010.github.io/tabs-react/data.json')
     .then((response) => response.json())
     .then(data => this.setState({data}));
   }
