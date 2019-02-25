@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/tabs-react/static/js/runtime~main.08e37f32.js"
   },
   {
-    "revision": "24f626937c4f03858e59",
-    "url": "/tabs-react/static/js/main.24f62693.chunk.js"
+    "revision": "ba054abb338828bb944d",
+    "url": "/tabs-react/static/js/main.ba054abb.chunk.js"
   },
   {
     "revision": "c88c70e5f4ff8bea6fac",
     "url": "/tabs-react/static/js/2.c88c70e5.chunk.js"
   },
   {
-    "revision": "24f626937c4f03858e59",
+    "revision": "ba054abb338828bb944d",
     "url": "/tabs-react/static/css/main.66136bb6.chunk.css"
   },
   {
-    "revision": "fdb8d58a6a0e62227278264ebe2183ef",
+    "revision": "635225133d58f6b062a19512e16fecf2",
     "url": "/tabs-react/index.html"
   }
 ];
